@@ -10,6 +10,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="GEJALA"
-        />
+
+        tools:layout_editor_absoluteX="67dp"
+        tools:layout_editor_absoluteY="42dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
